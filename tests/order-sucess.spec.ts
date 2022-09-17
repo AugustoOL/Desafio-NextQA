@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-test('compra com sucesso', async ({page}) => {
+test.only('compra com sucesso', async ({page}) => {
 
     await page.goto("https://saucedemo.com/");
 
@@ -24,5 +24,5 @@ test('compra com sucesso', async ({page}) => {
     await page.click('button#finish')
 
     const modalMessage = page.locator('.complete-header')
-    await expect(modalMessage).toHaveText('THANK YOU FOR YOUR ORDER')
+    await expect(modalMessage).toHaveText('tt')
 });
