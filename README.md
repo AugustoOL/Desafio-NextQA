@@ -18,7 +18,7 @@ O desafio consiste.
 ## :camera: Demonstração
 
 <div align="center" >
-  <img src="./teste.gif>
+  <img src="./teste.gif" alt="demo-web" height="425">
 </div>
 
 ## :rocket: Tecnologias
