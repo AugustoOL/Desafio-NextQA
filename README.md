@@ -4,6 +4,17 @@
 
 <br>
 
+## 💻 Desafio
+
+O desafio consiste.
+
+## ⚙ Configuração
+
+1- Para instalar as dependências:
+> 
+2- Para iniciar a aplicação:
+> 
+
 ## :camera: Demonstração
 
 <div align="center" >
@@ -18,15 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️Typescript
 
-## 💻 Desafio
 
-O desafio consiste.
-
-## ⚙ Configuração
-
-1- Para instalar as dependências:
-> 
-2- Para iniciar a aplicação:
-> 
 
 ---
