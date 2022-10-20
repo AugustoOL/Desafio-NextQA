@@ -18,7 +18,7 @@ O desafio consiste.
 ## :camera: Demonstração
 
 <div align="center" >
-  <img src="./test-results/tests-order-sucess-compra-com-sucesso-chromium/video.webm" alt="demo-web" height="425">test-results/tests-order-sucess-compra-com-sucesso-chromium/video.webm
+  <img src="./teste.gif>
 </div>
 
 ## :rocket: Tecnologias
