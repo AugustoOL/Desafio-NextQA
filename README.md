@@ -23,7 +23,7 @@ Cenários:
 <div align="center" >
   2. Login com senha inválida
    <br>
-  <img src="./teste.gif" alt="demo-web" height="425">
+  <img src="./test-results/tests-invalid-password-senha-incorreta-chromium/test-finished-1.png" alt="demo-web" height="425">
 </div>
 
 <div align="center" >
