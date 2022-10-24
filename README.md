@@ -14,8 +14,13 @@ Cenários:
 3. Efetuar a compra de um produto e validar a mensagem: "THANK YOU FOR YOUR ORDER"
 
 ## :camera: Demonstração
+<div align="center" >
+   2. Login com senha inválida
+  <img src="./teste.gif" alt="demo-web" height="425">
+</div>
 
 <div align="center" >
+   3. Efetuar a compra de um produto e validar a mensagem: "THANK YOU FOR YOUR ORDER"
   <img src="./teste.gif" alt="demo-web" height="425">
 </div>
 
