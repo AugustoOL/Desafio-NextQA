@@ -17,7 +17,7 @@ Cenários:
 <div align="center" >
   1. Login com sucesso
    <br>
-  <img src="./teste.gif" alt="demo-web" height="425">
+  <img src="./login.gif" alt="demo-web" height="425">
 </div>
 <br>
 <div align="center" >
