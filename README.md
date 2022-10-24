@@ -6,7 +6,12 @@
 
 ## 💻 Desafio
 
-O desafio consiste.
+O desafio consiste em automatizar os cenários descritos abaixo da aplicação https://www.saucedemo.com/ 
+
+Cenários:
+1. Login com sucesso
+2. Login com senha inválida
+3. Efetuar a compra de um produto e validar a mensagem: "THANK YOU FOR YOUR ORDER"
 
 ## ⚙ Configuração
 
