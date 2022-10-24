@@ -1,5 +1,5 @@
 <h1 align="center">
-   Desafio Automção de Testes da NextQA
+   Desafio Automação de Testes da NextQA
 </h1>
 
 <br>
@@ -13,18 +13,18 @@ Cenários:
 2. Login com senha inválida
 3. Efetuar a compra de um produto e validar a mensagem: "THANK YOU FOR YOUR ORDER"
 
+## :camera: Demonstração
+
+<div align="center" >
+  <img src="./teste.gif" alt="demo-web" height="425">
+</div>
+
 ## ⚙ Configuração
 
 1- Para instalar as dependências:
 > 
 2- Para iniciar a aplicação:
 > 
-
-## :camera: Demonstração
-
-<div align="center" >
-  <img src="./teste.gif" alt="demo-web" height="425">
-</div>
 
 ## :rocket: Tecnologias
 
