@@ -16,6 +16,7 @@ Cenários:
 ## :camera: Demonstração
 <div align="center" >
   1. Login com sucesso
+   <br>
   <img src="./teste.gif" alt="demo-web" height="425">
 </div>
 
