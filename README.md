@@ -21,7 +21,7 @@ Cenários:
 </div>
 
 <div align="center" >
-  1. Login com sucesso
+  2. Login com senha inválida
    <br>
   <img src="./teste.gif" alt="demo-web" height="425">
 </div>
