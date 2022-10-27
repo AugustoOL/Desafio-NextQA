@@ -33,12 +33,18 @@ Cenários:
 </div>
 
 ## ⚙ Configuração
+
 1- Para instalar as dependências:
 > 
 2- Para iniciar a aplicação:
-> 
+
+
 ## :rocket: Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 ✔️HTML
+
 ✔️Typescript
+
 ---
